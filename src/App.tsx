@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 import PersonaCard, {Persona} from './components/molecules/PersonaCard';
 import PersonaGroup from './components/organisms/PersonaGroup';

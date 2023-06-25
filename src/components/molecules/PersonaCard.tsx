@@ -1,5 +1,3 @@
-import React from 'react'
-
 // Define the persona type
 export interface Persona {
   id: number;

@@ -1,5 +1,3 @@
-import React from 'react'
-
 import PersonaCard, { Persona } from '../molecules/PersonaCard';
 
 type Props = {
